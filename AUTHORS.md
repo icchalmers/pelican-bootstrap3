@@ -1,5 +1,7 @@
 The primary author of this project is:
+- [Iain Chalmers](https://github.com/icchalmers)
 
+It's based on [pelican-bootstrap3](https://github.com/DandyDev/pelican-bootstrap3):
 - [Daan Debie](https://github.com/DandyDev) aka `DandyDev`
 
 And Pelican Bootstrap 3 would not have been possible without the outstanding contributions of the following fine people:
