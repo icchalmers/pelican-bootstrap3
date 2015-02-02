@@ -7,11 +7,11 @@ It's based on the [pelican-bootstrap3](https://github.com/DandyDev/pelican-boots
 
 First:
 
-`git clone https://github.com/DandyDev/pelican-bootstrap3.git`
+`git clone https://github.com/icchalmers/pelican-bootstrap3-fabacademy.git`
 
 Then:
 
-Point the `THEME` variable in your `pelicanconf.py` to `/path/to/pelican-bootstrap3`
+Point the `THEME` variable in your `pelicanconf.py` to `/path/to/pelican-bootstrap3-fabacademy`
 
 ## Usage
 
