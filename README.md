@@ -20,9 +20,3 @@ Most of the usage remains the same as for the base pelican-bootstrap theme, alth
 Some features that I know no longer work:
 
 * Due to limits on the generated site size for Fab Academy, I've removed all of the [Bootswatch](http://bootswatch.com/) themes except for 'flatly'.
-
-* I've added some CSS for controlling the navigation sidebar in 'static/css/pelican-bootstrap3-fabacademy.css', so make sure add the following line to your pelican config file:
-
-```
-CUSTOM_CSS = 'static/css/pelican-bootstrap3-fabacademy.css'
-```
